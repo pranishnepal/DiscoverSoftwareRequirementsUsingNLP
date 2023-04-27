@@ -1,0 +1,36 @@
+package name,app name,feature
+org.ligi.ajsha,AJShA Android Java Shell App,It is powered by BeanShell ( BSH ) with some provided objects like the ActivityContext and a ViewGroup container to make view evaluations.
+org.ligi.ajsha,AJShA Android Java Shell App,The time is measured to execute the code and there are links to the javadoc.
+nya.miku.wishmaster,Overchan,"Separate preferences for each imageboard: password for post deletion, HTTP/SSL, proxy"
+nya.miku.wishmaster,Overchan,Automatic hide posts and threads using regular expressions
+nya.miku.wishmaster,Overchan,Automatic update all open tabs in background
+nya.miku.wishmaster,Overchan,Sending posts in background
+nya.miku.wishmaster,Overchan,Saving threads with all attachments in HTML with Dollchan
+nya.miku.wishmaster,Overchan,Two ways to display replies to posts: as separate references and as list
+nya.miku.wishmaster,Overchan,Support the tablet interface
+nya.miku.wishmaster,Overchan,Themes
+com.qubling.sidekick,CPAN Sidekick,Search for CPAN modules
+com.qubling.sidekick,CPAN Sidekick,"See search results with the author's picture, module abstract, ratings, and favorites"
+com.qubling.sidekick,CPAN Sidekick,Tap on individual results to see the documentation for that module
+com.qubling.sidekick,CPAN Sidekick,Tap on the module header on documentation to see the release details
+com.qubling.sidekick,CPAN Sidekick,Follow links within the documentation to see the documentation for other modules
+com.qubling.sidekick,CPAN Sidekick,"Any link to something other than a module will work, but will go to a browser, even if that link is within CPAN"
+com.qubling.sidekick,CPAN Sidekick,Two panel view for tablets
+at.linuxtage.companion,GLT Companion,Browse sessions by day and by track
+at.linuxtage.companion,GLT Companion,Instant search
+at.linuxtage.companion,GLT Companion,Track schedule view optimized for phones and tablets
+at.linuxtage.companion,GLT Companion,"Full sessions details with related links, speakers info and room maps"
+at.linuxtage.companion,GLT Companion,Add sessions directly to your calendar
+at.linuxtage.companion,GLT Companion,Share sessions with a link to their page on the Linuxtage website
+at.linuxtage.companion,GLT Companion,Manage bookmarks and get notified when a bookmarked session is about to start
+at.linuxtage.companion,GLT Companion,"""Live"" view: during Linuxtage, watch the realtime updated list of currently running and upcoming sessions"
+at.linuxtage.companion,GLT Companion,Includes a simple map of the site.
+com.jtechme.jumpgo,JumpGo,Speed - JumpGo utilizes the WebKit rendering engine built into the Android system to provide a fast experience.
+com.jtechme.jumpgo,JumpGo,"Privacy - JumpGo provides an easy and intuitive 'Incognito Mode' for browsing without worrying about cookies, cache and history. Additionally, download Orbot and turn on TOR proxy support to utilize the TOR network for extra protection."
+com.jtechme.jumpgo,JumpGo,Multicolored navigation bars
+com.jtechme.jumpgo,JumpGo,Search suggestions
+com.jtechme.jumpgo,JumpGo,Bookmarks
+com.jtechme.jumpgo,JumpGo,Reading Mode
+com.jtechme.jumpgo,JumpGo,History
+com.jtechme.jumpgo,JumpGo,AdBlock
+com.jtechme.jumpgo,JumpGo,User Agents
